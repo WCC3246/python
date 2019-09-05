@@ -1,2 +1,3 @@
 # python
- machine learning
+print('python')
+print('hello world')
